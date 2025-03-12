@@ -63,4 +63,4 @@ let a1 = 123;
 // a1 = 'codings';
 console.log(a1);
 
-let b1:number = 123;
+let b1:number
