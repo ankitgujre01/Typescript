@@ -59,8 +59,4 @@
     * 21. ES6 features = Include all ES6 Features and future proposals. Include all ES6 Features but depends on browser/node.js versions.
  */
 
-let a1 = 123;
-// a1 = 'codings';
-console.log(a1);
-
-let b1:number = 123;
+let 
